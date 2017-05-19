@@ -1,0 +1,2 @@
+This repository contains assignment work for the Reinforcement Learning course completed as part of my Masters degree at the University of Edinburgh. It contains a random agent which can be used to play the Enduro game, and is used as the baseline model.
+There are two other agents, a simple agent implementing the standard Q learning algorithm with simple features, and another which implements the standard Q learning algorithm with more detailed features, and therefore better learning results.
